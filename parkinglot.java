@@ -76,7 +76,7 @@ class Bus extends Vehicle {
 // ==========================================
 
 class ParkingSpot {
-    private Vehicle vehicle; // Pointer to the vehicle parked here (if any)
+    private Vehicle vehicle; // Pointer to the vehicle parked here 
     private VehicleSize spotSize;
     private int row;
     private int spotNumber;
